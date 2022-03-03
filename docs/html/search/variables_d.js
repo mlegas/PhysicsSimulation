@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['magnitude',['magnitude',['../struct_s_d_l___haptic_periodic.html#aad0ad2b00c7e6959da627663d91f7b94',1,'SDL_HapticPeriodic']]],
+  ['major',['major',['../struct_s_d_l__version.html#ad7d7674532073eed237b90f546c97cd0',1,'SDL_version']]],
+  ['map',['map',['../struct_s_d_l___surface.html#a8c1ecad399b0d4f525b1a53b6ee9393f',1,'SDL_Surface']]],
+  ['matrix',['matrix',['../structrepro.html#a2efa605cd57e168e0922d1bccc5f4a04',1,'repro']]],
+  ['max_5ftexture_5fheight',['max_texture_height',['../struct_s_d_l___renderer_info.html#a87c6a13e8d535c2148f8913c05e13102',1,'SDL_RendererInfo']]],
+  ['max_5ftexture_5fwidth',['max_texture_width',['../struct_s_d_l___renderer_info.html#a6e6757e3d5c1f0922adaba39380edfa6',1,'SDL_RendererInfo']]],
+  ['maxnum',['maxnum',['../struct_s_d_l___r_wops.html#a7786282ec28451085908f70048ee32c8',1,'SDL_RWops']]],
+  ['mem',['mem',['../struct_s_d_l___r_wops.html#ae94737e3a556a71fa5dcdc06287b56ae',1,'SDL_RWops']]],
+  ['message',['message',['../struct_s_d_l___message_box_data.html#ada6ae208a1f85adabbd7a7a08ca609c8',1,'SDL_MessageBoxData']]],
+  ['mgesture',['mgesture',['../union_s_d_l___event.html#ac19b3c6a6b5181a51eb4fbe2cbe726a9',1,'SDL_Event']]],
+  ['minor',['minor',['../struct_s_d_l__version.html#a6c35c7bf80245028d5970e6a504ecf57',1,'SDL_version']]],
+  ['mipmaplevels',['mipMapLevels',['../structgli_1_1gtx_1_1loader__dds9_1_1detail_1_1dds_header.html#a8d7ea11699aa8a1e3ddf8843af88fe1b',1,'gli::gtx::loader_dds9::detail::ddsHeader']]],
+  ['miscflag',['miscFlag',['../structgli_1_1gtx_1_1loader__dds10_1_1detail_1_1dds_header10.html#a6c7c7b3eeddd6bf451372b46b8a62c58',1,'gli::gtx::loader_dds10::detail::ddsHeader10']]],
+  ['mod',['mod',['../struct_s_d_l___keysym.html#ab519d1b8a9939d3d035f7103f3208291',1,'SDL_Keysym']]],
+  ['mode',['mode',['../struct_s_d_l___window_shape_mode.html#a40ebd8b9a76d982cbd87563386cc05de',1,'SDL_WindowShapeMode']]],
+  ['motion',['motion',['../union_s_d_l___event.html#ac3c89e190faacbe84280cd539453bab6',1,'SDL_Event']]],
+  ['mouse_5fx',['mouse_x',['../class_input.html#a13f7e6bed06c4dbea336749424249445',1,'Input']]],
+  ['mouse_5fy',['mouse_y',['../class_input.html#afd2e8c17cd14d860c965064b5d8eb347',1,'Input']]],
+  ['msg',['msg',['../struct_s_d_l___sys_w_m_event.html#ad5e3dc68aa15582cd0641847d41c74e8',1,'SDL_SysWMEvent::msg()'],['../struct_s_d_l___sys_w_mmsg.html#a74894ed060d5508ab06aac584154d61e',1,'SDL_SysWMmsg::msg()'],['../struct_s_d_l___sys_w_mmsg.html#a44c16789e283a238a2dd9588620b5ff1',1,'SDL_SysWMmsg::msg()']]],
+  ['msw',['msw',['../unionieee__double__shape__type.html#aea1156759f6afd58a56a7b4e7bfcee01',1,'ieee_double_shape_type']]],
+  ['multiple',['Multiple',['../structfloor_multiple_1_1type.html#abcfebcddb84abe1fafa437628fee3cc6',1,'floorMultiple::type::Multiple()'],['../structceil_multiple_1_1type.html#a54ae722cb29029a2fd00e8fe10623e04',1,'ceilMultiple::type::Multiple()']]]
+];

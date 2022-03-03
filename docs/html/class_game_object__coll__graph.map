@@ -1,0 +1,4 @@
+<map id="GameObject" name="GameObject">
+<area shape="rect" id="node2" href="$class_material.html" title="{Material\n|# _shaderProgram\l# _shaderModelMatLocation\l# _shaderInvModelMatLocation\l# _shaderViewMatLocation\l# _shaderProjMatLocation\l# _shaderDiffuseColLocation\l# _shaderEmissiveColLocation\l# _shaderSpecularColLocation\l# _shaderWSLightPosLocation\l# _shaderTex1SamplerLocation\l# _emissiveColour\l# _diffuseColour\l# _specularColour\l# _lightPosition\l# _texture1\l|+ Material()\l+ ~Material()\l+ LoadShaders()\l+ SetMatrices()\l+ SetEmissiveColour()\l+ SetDiffuseColour()\l+ SetSpecularColour()\l+ SetLightPosition()\l+ SetTexture()\l+ Apply()\l# CheckShaderCompiled()\l# LoadTexture()\l}" alt="" coords="5,5,209,449"/>
+<area shape="rect" id="node3" href="$class_mesh.html" title="{Mesh\n|# _VAO\l# _numVertices\l|+ Mesh()\l+ ~Mesh()\l+ LoadOBJ()\l+ Draw()\l}" alt="" coords="233,159,347,295"/>
+</map>
